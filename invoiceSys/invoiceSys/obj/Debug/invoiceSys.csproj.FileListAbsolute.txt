@@ -1,0 +1,10 @@
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\bin\Debug\invoiceSys.exe.config
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\bin\Debug\invoiceSys.exe
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\bin\Debug\invoiceSys.pdb
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\obj\Debug\invoiceSys.csproj.AssemblyReference.cache
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\obj\Debug\invoiceSys.forminvoice.resources
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\obj\Debug\invoiceSys.Properties.Resources.resources
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\obj\Debug\invoiceSys.csproj.GenerateResource.cache
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\obj\Debug\invoiceSys.csproj.CoreCompileInputs.cache
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\obj\Debug\invoiceSys.exe
+C:\Users\alaa3\source\repos\invoiceSys\invoiceSys\obj\Debug\invoiceSys.pdb
